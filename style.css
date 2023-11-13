@@ -1,0 +1,29 @@
+header{
+    background-image: url(assets/tim-foster-V2HBmfto63E-unsplash.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+}
+
+.title{
+    color: #ffffff;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+h1{
+    color: white;
+}
+.footerbase{
+    background-image: url(assets/michelle-spollen-c9MFM8rSMsQ-unsplash.jpg);
+    background-size: cover;
+}
+.navbar{
+    background-color: #cbcbcb;
+    
+    
+}
+    
